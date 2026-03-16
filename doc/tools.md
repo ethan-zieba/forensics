@@ -4,4 +4,4 @@ Widely used in (network) forensics, tracing through an attack or protecting agai
 
 CyberChef: web app, can decode, encode, and transform data using various methods and tools. 
 
-Volatility: Used to analyse RAM dumps, needed in malware analysis or forensics. 
+Volatility: Volatility is an open source memory forensics framework. It allows analysts to extract digital artifacts from a RAM dump without needing access to the original machine.
