@@ -12,4 +12,12 @@
 
 ### IOC
 
+### WWW
+
+#### When ?
+
+#### Who ?
+
+#### What ?
+
 ### Possible remediation ?
